@@ -1,0 +1,26 @@
+/* App.css */
+body {
+  background-color: #1e1e2f; /* Dark background */
+  color: #e0e0e0; /* Light text color */
+  font-family: 'Arial', sans-serif; /* Default font */
+  margin: 0; /* Remove default margin */
+}
+
+.home {
+  text-align: center; /* Center text */
+  padding: 50px; /* Add padding */
+}
+
+.welcome {
+  font-size: 2.5rem; /* Large welcome text */
+  font-family: 'Courier New', Courier, monospace; /* Modern chill font */
+}
+
+h2, h3 {
+  margin: 10px 0; /* Add margin for headings */
+}
+
+ul {
+  list-style-type: none; /* Remove list styling */
+  padding: 0; /* Remove padding */
+}

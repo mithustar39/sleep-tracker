@@ -1,0 +1,49 @@
+/* src/HomeScreen.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+.home-screen {
+    background-color: #1a1a1a; /* Dark background for a chill vibe */
+    color: #e0e0e0; /* Light text color */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif; /* Modern font */
+}
+
+.welcome-message {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.total-sleep {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+.rem-sleep-details {
+    text-align: left;
+    margin: 20px auto;
+}
+
+.rem-sleep-details h3 {
+    margin-bottom: 10px;
+}
+
+.rem-sleep-details ul {
+    list-style-type: none; /* Remove default list style */
+    padding: 0;
+}
+
+.view-previous {
+    background-color: #6a0dad; /* Purple button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+.view-previous:hover {
+    background-color: #5b0a9c; /* Darker purple on hover */
+}
